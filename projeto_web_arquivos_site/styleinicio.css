@@ -1,4 +1,3 @@
-
 .inf-container {
   display: flex;
   gap: 20px;
@@ -25,7 +24,6 @@
   transform: translateY(-5px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
-
 
 .cor1 h3 {
   color: #1e90ff; 
@@ -70,7 +68,7 @@ header h1 {
   max-width: 900px;
   margin: 40px auto;
   padding: 20px;
-  background-color: #f0f7f1;
+  background-color: #b4ecbc;
   border-radius: 8px;
   color: #2e8b57;
   font-size: 1.1rem;
@@ -78,3 +76,57 @@ header h1 {
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
 }
 
+.lixo {
+  background: #d9ead3;
+}
+.lixo-container {
+  background-color: #d3e9ff;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#proposta_ {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f1e6b1;
+  border-radius: 8px;
+  color: #2e8b57;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+header h1 {
+  color: #311c0a;
+}
+
+.cor01 h3 {
+  color: #6a010c;
+}
+
+.cor02 h3 {
+  color: #6a010c;
+}
+
+.cor03 h3 {
+  color: #6a010c;
+}
+
+.cor04 h3 {
+  color: #6a010c;
+}
+
+.cor05 h3 {
+  color: #6a010c;
+}
+
+.cor06 h3 {
+  color: #6a010c;
+}
+
+.cor07 h3 {
+  color: #6a010c;
+}

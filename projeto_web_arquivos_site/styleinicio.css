@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Heebo&family=Lato&family=PT+Sans&family=Work+Sans:wght@100;400&family=Roboto:wght@700&display=swap');
+
+* {
+  margin: 200;
+  padding: 300;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(/Projeto-3-Puc/imagens/fundo\ 01.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 100%;
+}
+
 .inf-container {
   display: flex;
   gap: 20px;
@@ -11,7 +27,7 @@
 
 }
 .container {
-  background-color: #e1f6d3;
+  background-color: #d3e9ff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   padding: 20px;
@@ -77,10 +93,9 @@ header h1 {
 }
 
 .lixo {
-  background: #d9ead3;
+  background: #fbfffa00;
 }
 .lixo-container {
-  background-color: #d3e9ff;
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
@@ -130,3 +145,4 @@ header h1 {
 .cor07 h3 {
   color: #6a010c;
 }
+

@@ -2,12 +2,11 @@
 
 /* Estilos gerais */
 body {
-  font-family: 'Segoe UI', 'Inter', sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f8f9fa;
-  margin: 0;
-  padding: 0;
+  background-image: url(fundo-04.avif);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 100%;
 }
 
 /* Cabeçalho melhorado */

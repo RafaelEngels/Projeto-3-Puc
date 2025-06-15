@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(fundo\ 01.jpg);
+  background-image: url(Reciclagem-02.png);
   background-size: cover;
   background-attachment: fixed;
   font-family: 'PT Sans', sans-serif;
@@ -78,7 +78,7 @@ body {
 header {
   text-align: center;
   padding: 30px 20px 10px;
-  background-color: #d9ead3;
+  background-color: #164d02;
   border-bottom: 2px solid #2e8b57;
 }
 
@@ -122,7 +122,7 @@ header h1 {
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
 }
 header h1 {
-  color: #311c0a;
+  color: #f9f8f8;
 }
 
 .cor01 h3 {
@@ -153,3 +153,10 @@ header h1 {
   color: #6a010c;
 }
 
+footer {
+  text-align: center;
+  padding: 30px;
+  margin-top: 50px;
+  background-color: #013a1a;
+  color: white;
+}

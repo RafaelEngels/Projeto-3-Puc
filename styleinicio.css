@@ -223,3 +223,16 @@ footer {
     max-width: 300px;
   }
 }
+
+.home-button {
+  display: inline-block;
+  background: #4CAF50;
+  color: #ffffff;
+  padding: 12px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1em;
+  border: none;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}

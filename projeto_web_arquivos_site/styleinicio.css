@@ -78,8 +78,8 @@ body {
 header {
   text-align: center;
   padding: 30px 20px 10px;
-  background-color: #164d02;
-  border-bottom: 2px solid #2e8b57;
+  background-color: #154802;
+  border-bottom: 2px solid #1a7140;
 }
 
 header h1 {
@@ -91,9 +91,9 @@ header h1 {
   max-width: 900px;
   margin: 40px auto;
   padding: 20px;
-  background-color: #b4ecbc;
+  background-color: #3fa34e;
   border-radius: 8px;
-  color: #2e8b57;
+  color: #03391a;
   font-size: 1.1rem;
   line-height: 1.5;
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
